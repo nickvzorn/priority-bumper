@@ -41,7 +41,7 @@ Other notes:
 
 If you ever want to see detail about all the processes running currently, run 'htop' in a terminal. It shows you process priority, memory/CPU usage and CPU core assignment, among other things.
 
-As we discussed, you will probably want to disable the GUI just to take some of the load off of the two cores you've now tasked with doing all the OS stuff.
+You will probably want to disable the GUI just to take some of the load off of the two cores you've now tasked with doing all the OS stuff.
     http://ask.xmodulo.com/disable-desktop-gui-raspberry-pi.html
 
 Other references I used in this process:
